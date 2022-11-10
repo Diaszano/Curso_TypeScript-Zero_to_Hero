@@ -1,6 +1,17 @@
 {
-	"name": "Node.js & TypeScript",
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:16-bullseye"
+	"name": "Curso TypeScript - Zero to Hero(TypeScript)",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:16-bullseye",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"pmneo.tsimporter",
+				"rbbit.typescript-hero",
+				"dbaeumer.vscode-eslint",
+				"christian-kohler.npm-intellisense",
+				"xabikos.JavaScriptSnippets"
+			]
+		}
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/implementors/features.
 	// "features": {},

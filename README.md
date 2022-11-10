@@ -12,7 +12,7 @@ TypeScript.
 - [X] [Visualizado aula 05](https://youtu.be/iTCRgdEyq0k)
     - [X] [Exercicio da aula 05](./aula_05/)
 - [X] [Visualizado aula 06](https://youtu.be/VIYnya9DUxg)
-- [ ] [Visualizado aula 07](https://youtu.be/ocjS96i27zk)
+- [X] [Visualizado aula 07](https://youtu.be/ocjS96i27zk)
 - [ ] [Visualizado aula 08]()
 - [ ] [Visualizado aula 09]()
 - [ ] [Visualizado aula 10]()

@@ -1,4 +1,4 @@
-u# Type Array
+# Type Tuple
 
 Nesta aula aprendemos como lidar com o tipo de Tuple em TypeScript.
 

@@ -17,7 +17,8 @@
 				"SirTori.indenticator",
 				"VisualStudioExptTeam.vscodeintellicode",
 				"VisualStudioExptTeam.intellicode-api-usage-examples",
-				"christian-kohler.path-intellisense"
+				"christian-kohler.path-intellisense",
+				"formulahendry.code-runner"
 			]
 		}
 	}

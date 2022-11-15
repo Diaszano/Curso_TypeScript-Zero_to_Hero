@@ -59,3 +59,4 @@ function criarPessoa(... nome:Nome){
 
 console.log(criarPessoa('Lucas','dos Santos'));
 console.log(criarPessoa('Lucas','Dias','dos Santos'));
+```

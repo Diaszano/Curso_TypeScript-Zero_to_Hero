@@ -80,6 +80,8 @@ TypeScript.
 - [ ] [Visualizado aula 60]()
 - [ ] [Visualizado aula 61]()
 - [ ] [Visualizado aula 62]()
+- [ ] [Visualizado aula 63]()
+- [ ] [Visualizado aula 64]()
 
 ## Tecnologias utilizadas
 

@@ -1,4 +1,4 @@
-# Type Object
+# Classes
 
 Nesta aula aprendemos como lidar com Classes em TypeScript.
 

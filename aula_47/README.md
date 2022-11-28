@@ -1,4 +1,4 @@
-# Type Object
+# Default Parameters
 
 Nesta aula aprendemos como lidar com o tipo Default Parameters em TypeScript.
 

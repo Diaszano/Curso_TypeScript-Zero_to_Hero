@@ -1,4 +1,4 @@
-# Type Object
+# Rest Parameters
 
 Nesta aula aprendemos como lidar com o tipo Rest Parameters em TypeScript.
 

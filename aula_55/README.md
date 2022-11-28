@@ -1,4 +1,4 @@
-# Type Object
+# Readonly
 
 Nesta aula aprendemos como lidar com Readonly no TypeScript.
 

@@ -1,4 +1,4 @@
-# Type Object
+# Modificador de Acesso
 
 Nesta aula aprendemos como lidar com Modificador em Classes no TypeScript.
 

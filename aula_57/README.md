@@ -1,4 +1,4 @@
-# Type Object
+# Getters & Setters
 
 Nesta aula aprendemos como lidar com Getters/Setters no TypeScript.
 

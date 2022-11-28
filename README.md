@@ -75,7 +75,7 @@ TypeScript.
 - [X] [Visualizado aula 56](https://youtu.be/5cKzzP4CeKM)
 - [X] [Visualizado aula 57](https://youtu.be/AFYCxTnVQbM)
     - [X] [Exercício da aula 57](./aula_57/)
-- [ ] [Visualizado aula 58]()
+- [ ] [Visualizado aula 58](https://youtu.be/GawUXUjgrG8)
 - [ ] [Visualizado aula 59]()
 - [ ] [Visualizado aula 60]()
 - [ ] [Visualizado aula 61]()

@@ -1,48 +1,42 @@
 # Type Object
 
-Nesta aula aprendemos como lidar com o tipo Rest Parameters em TypeScript.
+Nesta aula aprendemos como lidar com Classes em TypeScript.
 
-Aqui temos o exemplos em TypeScript como se pode lida com Rest Parameters
+Aqui temos o exemplos em TypeScript como se pode lida com Classes
 
 ```typescript
-// Exemplo 01 - Rest Parameters
-function somarNumeros(...numeros:Array<number>):number{
-    let total:number = 0;
-    numeros.forEach((numeros) => (total += numeros));
-    return total;
-}
+// Exemplo 01 - Classes
+class Pessoa {
+    nome:string;
+    sobrenome:string;
 
-console.log(somarNumeros(1,1,2,2,3,3,4,5,6,7,8,8,9,10));
+    constructor(nome:string,sobrenome:string) {
+        this.nome = nome;
+        this.sobrenome = sobrenome;
+    }
 
-// Exemplo 02 - Rest Parameters
-
-function listarFrutas(frase: string, ...frutas: string[]) {
-    return frase + ' ' + frutas.join(', ');
-}
-
-console.log(
-    listarFrutas(
-        'Lucas, você precisa ir na feira para comprar...:',
-        '🥥','🍓','🍌','🍍',
-    ),
-);
-
-// ==> Exemplo 03 - Rest Parameters
-class Produtos {
-    public exibirProdutos(...produtos: string[]): void {
-        for (const produto of produtos) {
-            console.log(produto);
-        }
+    nomeCompleto():string{
+        return `${this.nome} ${this.sobrenome}`;
     }
 }
 
-const departamentoInformatica: Produtos = new Produtos();
-console.log(
-    'Todos os produtos do departamento de Informática '+
-    'disponíveis no estoque...: ',
-);
+const pessoa = new Pessoa('Lucas','Dias');
+console.log(pessoa.nomeCompleto());
 
-departamentoInformatica.exibirProdutos(
-    'Mouse','Notebook','USB','Monitor','Teclado','WebCam'
-);
+// Exemplo 02 - Classes (sem construtor)
+class Estudante {
+    codigoEstudante:number;
+    nomeEstudante:string;
+}
+
+// Criar um objeto ou a instancia
+const estudante = new Estudante();
+
+// Inicializar o objeto
+estudante.codigoEstudante = 19101571;
+estudante.nomeEstudante = 'Lucas Dias';
+
+// Acessar os campos
+console.log('Código do Estudante ... : ' + estudante.codigoEstudante);
+console.log('Nome do Estudante ... : ' + estudante.nomeEstudante);
 ```

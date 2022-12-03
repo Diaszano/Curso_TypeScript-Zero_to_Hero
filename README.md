@@ -75,13 +75,16 @@ TypeScript.
 - [X] [Visualizado aula 56](https://youtu.be/5cKzzP4CeKM)
 - [X] [Visualizado aula 57](https://youtu.be/AFYCxTnVQbM)
     - [X] [Exercício da aula 57](./aula_57/)
-- [ ] [Visualizado aula 58](https://youtu.be/GawUXUjgrG8)
-- [ ] [Visualizado aula 59]()
-- [ ] [Visualizado aula 60]()
-- [ ] [Visualizado aula 61]()
-- [ ] [Visualizado aula 62]()
-- [ ] [Visualizado aula 63]()
-- [ ] [Visualizado aula 64]()
+- [X] [Visualizado aula 58](https://youtu.be/GawUXUjgrG8)
+- [X] [Visualizado aula 59](https://youtu.be/v3X3vk2YGvI)
+- [X] [Visualizado aula 60](https://youtu.be/vqhjXC19_WI)
+- [X] [Visualizado aula 61](https://youtu.be/uHy4vhX3LRA)
+    - [X] [Exercício da aula 61](./aula_61/)
+- [X] [Visualizado aula 62](https://youtu.be/BB9aVjqLEJc)
+- [X] [Visualizado aula 63](https://youtu.be/7-W_cJOPa4E)
+- [X] [Visualizado aula 64](https://youtu.be/kr-7yJxMfuU)
+- [X] [Visualizado aula 65](https://youtu.be/gEmE6EnnMN4)
+    - [X] [Exercício da aula 65](./aula_65/)
 
 ## Tecnologias utilizadas
 
